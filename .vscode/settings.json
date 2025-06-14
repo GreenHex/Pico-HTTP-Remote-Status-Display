@@ -1,0 +1,21 @@
+{
+	"files.associations": {
+		"flash.h": "c",
+		"wifi_provisioning.h": "c",
+		"dev_config.h": "c",
+		"tiny-json.h": "c",
+		"lcd_1in3.h": "c",
+		"lcd_test.h": "c",
+		"stdlib.h": "c",
+		"ble.h": "c",
+		"cyw43_arch.h": "c",
+		"string.h": "c",
+		"stdio.h": "c",
+		"http_client.h": "c",
+		"strings.h": "c",
+		"json_proc.h": "c",
+		"watchdog.h": "c",
+		"not_resolved_list.h": "c",
+		"assert.h": "c"
+	}
+}
